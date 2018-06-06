@@ -6,7 +6,7 @@ def crazy_strings(a,b)
  puts (Hello, Friends)
 end
 
-crazy_strings(a,b)
+crazy_strings(Hello Friends)
 
 
 
